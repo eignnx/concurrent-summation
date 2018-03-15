@@ -3,7 +3,7 @@ A multi-threaded summation example written in C. The following tests were run on
 
 ## Demo
 
-### Download, then compile with make
+### Download, then compile with `make`
 
 ```shell
 $ git clone git@github.com:eignnx/concurrent-summation.git
